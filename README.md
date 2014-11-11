@@ -1,8 +1,11 @@
-
+<!DOCTYPE html>
 <html>
+<body bgcolor="#E6E6FA">
 
+<h1>Hello world!</h1>
+<p><a href="http://www.w3schools.com">Visit W3Schools.com!</a></p>
 
-<h1>Tere tulemast !</h1>
-<p><a href="http://khk.ee">Meie kooli koduleht</a></p>
+<p>The bgcolor attribute is not supported in HTML5. Use CSS instead.</p>
 
+</body>
 </html>
