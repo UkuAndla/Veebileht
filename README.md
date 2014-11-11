@@ -6,9 +6,9 @@
 <p><a href="http://khk.ee">Külasta meie kooli lehte!</a></p>
 
 <ul>
-  <li>Avaleht</li>
-  <li>Õpilased</li>
-  <li>Tunnid</li>
+  <li><a href="http://facebook.com">Facebook</a></li>
+  <li><a href="http://facebook.com">Facebook</a></li>
+  <li><a href="http://facebook.com">Facebook</a></li>
 </ul>
 
 </body>
