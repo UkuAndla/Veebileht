@@ -1,9 +1,7 @@
 
 <html>
 
-p.background--light {
-  color: black;
-}
+
 
 <h1>Tere tulemast!</h1>
 <p><a href="http://khk.ee">Külasta meie kooli lehte!</a></p>
